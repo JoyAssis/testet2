@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header{
+    height: 20vh;
+    background-color: #1E1E1E;
+    color: antiquewhite;
+  }
+  .imagem-principal{
+  background-image: url("https://static-assets.bamgrid.com/product/disneyplus/images/share-default.14fadd993578b9916f855cebafb71e62.png");
+  height: 40vh;
+  background-position: 50% 50%;
+  }
+  
